@@ -1,0 +1,40 @@
+Nature;Material;MaterialName;CMC Nature;Process;Product;ProductName;Volume 17
+Burnt;87;Hydrated Lime Packed;BURNT;Hydrated;10035;Hydrated Lime Packed;6153
+Burnt;92;Hydrated Lime Bulk;BURNT;Hydrated;10036;Hydrated Lime Bulk;9942
+Burnt;96;Sorbacal® SP;BURNT;Hydrated;10039;Sorbacal SP Bulk;25457
+Burnt;107;Lime milk 25% hydrated-bulk;BURNT;Lime milk;10048;Milk of Lime;250
+Burnt;109;Lime milk 45% hydrated-bulk;BURNT;Lime milk;10048;Milk of Lime;3099
+Burnt;125;Proviacal,-bulk;BURNT;Milled;10057;Proviacal-bulk;2018
+Burnt;163;Pebble lime HR 3/10mm-bulk;BURNT;Natural;10066;Pebble lime HR-bulk;7189
+Burnt;2160;Hydrated Lime - BB;BURNT;Hydrated;10035;Hydrated Lime Packed;778
+Burnt;2914;Tradical Q;BURNT;Natural;10066;Pebble lime HR-bulk;532
+Burnt;3208;Brændt pulveriseret kalk 0-2mm-bulk;BURNT;Milled;10055;Milled lime HR-bulk;24128
+Burnt;3209;Milled lime HR 0-2mm-big bag;BURNT;Milled;10054;Milled lime HR-bag;20
+Burnt;3258;Neutralac® SLS45 IBC;BURNT;Lime milk;10975;Neutralac SLS45 Pack;84
+Burnt;3289;Powder lime HR high dust content - bulk;BURNT;Natural;10904;Pebble lime HR - hig;35764
+Burnt;3298;Mix hydrated lime/fluegas cleaning-bulk;BURNT;Hydrated;#;Not assigned;5332
+Burnt;3508;Milled lime HR 0-0,2mm Bag;BURNT;Milled;10054;Milled lime HR-bag;70
+Burnt;6977;Powder lime HR high dust content - bags;BURNT;Natural;11754;Pebble lime HR - hig;176
+Unburnt;448;Faxe Dolomitkalk;AGGREGATES;Natural;10128;Crushed dolomite-bul;10021
+Unburnt;615;Crushed limestone 0/35 mm-bulk;AGGREGATES;Natural;10144;Crushed limestone-bu;6
+Unburnt;753;gebr. Kalkstein 80 0/1 tr lo;AGGREGATES;Drying;10155;Dried limestone-bulk;5582
+Unburnt;3205;Granite;OTHERS;Deposit;10865;Overburden;10
+Unburnt;3207;Crushed limestone 0/10mm-bulk;AGGREGATES;Natural;10144;Crushed limestone-bu;54320
+Unburnt;3212;Milled limestone 2-4mm - bulk;MILLED/GROUND MINERALS;Milled;10142;Milled limestone-bul;683
+Unburnt;3213;Milled limestone 0,1-2mm - bulk;MILLED/GROUND MINERALS;Milled;10142;Milled limestone-bul;41516
+Unburnt;3215;Milled limestone 0-0,5mm - bulk;MILLED/GROUND MINERALS;Milled;10142;Milled limestone-bul;73298
+Unburnt;3216;Milled limestone 0-30µ - bulk;MILLED/GROUND MINERALS;Milled;10142;Milled limestone-bul;20814
+Unburnt;3220;Faxe vandbehandlingskalk 2-4 mm, 25 kg;MILLED/GROUND MINERALS;Milled;10141;Milled limestone-bag;988
+Unburnt;3221;Kalkskaller 2-4 mm. i big bag;MILLED/GROUND MINERALS;Milled;10141;Milled limestone-bag;1521
+Unburnt;3222;Milled limestone 0,1-2 mm- bag;MILLED/GROUND MINERALS;Milled;10141;Milled limestone-bag;111
+Unburnt;3223;Milled limestone 0,1-2mm- big bag;MILLED/GROUND MINERALS;Milled;10141;Milled limestone-bag;190
+Unburnt;3224;Milled limestone 0-0,5 mm- bag;MILLED/GROUND MINERALS;Milled;10141;Milled limestone-bag;439
+Unburnt;3225;Milled limestone 0-0,5mm- big bag;MILLED/GROUND MINERALS;Milled;10141;Milled limestone-bag;1757
+Unburnt;3226;Milled limestone 0-30 µ - bag;MILLED/GROUND MINERALS;Milled;10141;Milled limestone-bag;660
+Unburnt;3227;Milled limestone 0-30 µ - big bag;MILLED/GROUND MINERALS;Milled;10141;Milled limestone-bag;1072
+Unburnt;3286;Mix limestone/dolomite 2.5% Mg-bulk;MILLED/GROUND MINERALS;Mixed;10159;Mix limestone+dolomi;19206
+Unburnt;3287;Mix limestone/dolomite 5% Mg-bulk;MILLED/GROUND MINERALS;Mixed;10159;Mix limestone+dolomi;2638
+Unburnt;3510;Dolomitic limestone 0,2-2mm - bulk;MILLED/GROUND MINERALS;Milled;10142;Milled limestone-bul;32
+Unburnt;3535;Crushed limestone 0/6 mm-bulk;AGGREGATES;Natural;10144;Crushed limestone-bu;46378
+Unburnt;4267;Screened Road Foundation Material;AGGREGATES;Natural;10220;Subcontracted crushe;5371
+Unburnt;5571;Crushed/Mixed Limestone (0-32 mm);AGGREGATES;Natural;10205;SF-Crushed limestone;22405
